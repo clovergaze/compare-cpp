@@ -1,4 +1,4 @@
-# Compare
+# Compare (C++)
 
 Compares whether content of two files is identical.
 
